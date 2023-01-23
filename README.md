@@ -1,4 +1,4 @@
-# A Deep Convolutional Neural Network For Early Diagnosis of Alzheimer’s Disease
+# A Deep Convolutional Neural Network For Early Diagnosis of Alzheimer’s Disease Using Brain MRI Images
 
 This repository is dedicated to the research I conducted at the 2022 Advanced Academy for Research and Development summer program.  To run the file, you need a data folder named "data" with "train", "test", and "val" folders, each containing brain MRI images.  The CNN uses pretrained VGG16 layers connected to a batch normalization layer followed by alternating layers of 1000 neurons and 0.6 dropout.
 
